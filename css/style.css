@@ -1,0 +1,35 @@
+/* Стиль окна поиска */
+  #mySearch {
+      margin-top: 80px;
+      margin-left: 180px;
+    width: 40%;
+    font-size: 18px;
+    padding: 11px;
+    border: 1px solid #ddd;
+  }
+
+  
+.table{
+    margin-left: 120px;
+}
+
+.msg{
+    margin-left: 190px;
+}
+.btn {
+    width: 120px;
+    height: 50px;
+    border-radius: 3px;
+    background-color: #e7434e;
+    text-shadow: #454545 0 0 2px;
+    font-size: 18px;
+    cursor: pointer;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+  }
+  
+  .btn:hover{
+    background-color: #f35964;
+  }
+  
+  
